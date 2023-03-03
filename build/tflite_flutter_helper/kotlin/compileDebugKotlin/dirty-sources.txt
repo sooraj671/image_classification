@@ -1,0 +1,1 @@
+/Users/soorajkumar/Downloads/tflite_flutter_helper-master/android/src/main/kotlin/com/tfliteflutter/tflite_flutter_helper/TfliteFlutterHelperPlugin.kt

@@ -1,0 +1,25 @@
+<lint-module
+    format="1"
+    dir="/Users/soorajkumar/Downloads/tflite_flutter_helper-master/example/image_classification/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.1.2"
+    buildFolder="/Users/soorajkumar/Downloads/tflite_flutter_helper-master/example/image_classification/build/app"
+    bootClassPath="/Users/soorajkumar/Library/Android/sdk/platforms/android-31/android.jar:/Users/soorajkumar/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>
